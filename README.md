@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kris1254
+- 👀 I’m interested in Automation of NetApp on Azure
+- 📫 How to reach me, kris.bell@netapp.com
